@@ -1,0 +1,7 @@
+Turin 06:00 Milan 08:00
+Turin 07:45 Rome 12:00
+Milan 10:00 Rome 14:00
+Milan 13:00 Venice 15:30
+Rome 16:00 Venice 19:00
+Rome 20:00 Turin 24:00
+Venice 21:00 Turin 24:00
